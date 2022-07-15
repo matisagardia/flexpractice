@@ -1,0 +1,1 @@
+On this page I have practiced the main flexbox concepts, being able to setup and organize the entire boxes and content.
